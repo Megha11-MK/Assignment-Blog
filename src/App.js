@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import TopBar from './Components/TopBar';
-import Footer from './Components/Footer';
+import TopBar from './Components/TopBar/TopBar';
+import Footer from './Components/Footer/Footer';
 import card from './Components/Cards/card';
 import Card from './Components/Cards/card';
 
@@ -11,7 +11,7 @@ function App() {
     <div>
       <TopBar/>
       <Card />
-      <Footer/>
+      <Footer />
     </div>
   );
 }
