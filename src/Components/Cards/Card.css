@@ -1,0 +1,15 @@
+.card-header {
+  font-family: fantasy;
+  font-size: 30px;
+  background-color: darkgrey;
+  padding: auto;
+}
+.cardstyles {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 20px;
+  padding-left: 50px;
+  margin-top: 50px;
+  padding-right: 50px;
+}
